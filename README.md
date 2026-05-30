@@ -1,16 +1,120 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**PauloHenrique51/PauloHenrique51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Paulo Henrique
 
-Here are some ideas to get you started:
+### Desenvolvedor Back-end em formação | Python & APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 Sobre Mim
+
+```python
+class PauloHenrique:
+
+    def __init__(self):
+        self.nome = "Paulo Henrique"
+        self.pais = "Brasil 🇧🇷"
+        self.area = "Back-end"
+        self.estudando = [
+            "Python",
+            "FastAPI",
+            "APIs REST",
+            "Banco de Dados",
+            "Git e GitHub"
+        ]
+
+    def objetivo(self):
+        return "Construir soluções escaláveis e eficientes"
+```
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,javascript,html,css,git,github,vscode,," />
+
+</div>
+
+---
+
+## 📈 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Metas para 2026
+
+- ✅ Dominar FastAPI
+- ✅ Construir APIs REST completas
+- ✅ Aprender Docker
+- ✅ Aprender Testes Automatizados
+- ✅ Criar projetos para portfólio
+- ✅ Conseguir minha primeira oportunidade como Desenvolvedor Back-end
+
+---
+
+## 📚 Atualmente Estudando
+
+- 🐍 Python
+- ⚡ FastAPI
+- 🌐 Desenvolvimento de APIs
+- 🗄️ SQL
+- 🔧 Git e GitHub
+- 📦 Arquitetura Back-end
+
+---
+
+## 🌎 Idiomas
+
+| Idioma | Nível |
+|---------|---------|
+| 🇧🇷 Português | Nativo |
+| 🇺🇸 Inglês | Básico |
+| 🇪🇸 Espanhol | Básico |
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Aprender, construir e evoluir todos os dias."
+
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=6A5ACD&style=for-the-badge)
+
+</div>
