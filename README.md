@@ -28,7 +28,6 @@ class PauloHenrique:
     def objetivo(self):
         return "Construir soluções escaláveis e eficientes"
 ```
-
 ---
 
 ## 🛠️ Tecnologias
@@ -42,13 +41,6 @@ class PauloHenrique:
 ---
 
 
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=PauloHenrique51&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
