@@ -3,9 +3,6 @@
 # 👨‍💻 Paulo Henrique
 
 ### Desenvolvedor Back-end em formação | Python & APIs
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Back-end+em+Formação;Apaixonado+por+Python+e+APIs;Sempre+Aprendendo+Novas+Tecnologias" alt="Typing SVG" />
-
 </div>
 
 ---
